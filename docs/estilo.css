@@ -1,7 +1,18 @@
 body{
-    background-image: url(uni.jpg);
-    background-color: black;
+    background-image: url(8040b5ff91ce8c3f153beebab39d584f.gif);
+    display: table;
+    width: 100%;
+    height: 100%;
+    padding: 100px 0;
+    text-align: center;
+    color: white;
     color:aqua;
+    background-position: 30% 45%;
+    -webkit-background-size: 122%;
+    font-size: 150%;
+    
+    
+    
     margin: 0;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -19,24 +30,23 @@ h3{
     position: fixed;
     top: 0;
     left: 0;
-    background-color: pink;
+    background-color: rgb(7, 7, 7);
+    
     
     overflow: hidden;
 }
 .aaa a{
+    
     padding: 16px;
     text-decoration: none;
     display: block;
-    color: black;
+    color: rgb(245, 240, 240);
 }
 .aaa a:hover{
-    background-color: palevioletred;
-    color: salmon;
+    background-color: rgb(168, 166, 167);
+    color: rgb(10, 10, 10);
 }
 .b{
-    /*background: url(download.png);
-    
-    background-size: 100% 200%; */
     
     margin-left: 200px;
     padding-left: 20px;
