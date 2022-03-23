@@ -1,0 +1,47 @@
+body{
+    background-image: url(uni.jpg);
+    background-color: black;
+    color:aqua;
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    font-size: 150%;
+    color:white;
+}
+h3{
+    font-size: 150%;
+    color:white;
+}
+.aaa{
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: pink;
+    
+    overflow: hidden;
+}
+.aaa a{
+    padding: 16px;
+    text-decoration: none;
+    display: block;
+    color: black;
+}
+.aaa a:hover{
+    background-color: palevioletred;
+    color: salmon;
+}
+.b{
+    /*background: url(download.png);
+    
+    background-size: 100% 200%; */
+    
+    margin-left: 200px;
+    padding-left: 20px;
+}
+.c{
+    margin-left: 200px;
+    padding-left: 20px;
+}
