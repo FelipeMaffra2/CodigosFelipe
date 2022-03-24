@@ -6,9 +6,9 @@ body{
     padding: 100px 0;
     text-align: center;
     color: white;
-    color:aqua;
+    color:rgb(245, 198, 98);
     background-position: 30% 45%;
-    -webkit-background-size: 122%;
+    background-size: 122%;
     font-size: 150%;
     
     
@@ -31,7 +31,9 @@ h3{
     top: 0;
     left: 0;
     background-color: rgb(7, 7, 7);
-    
+    background-position: 30% 45%;
+    background-size: 122%;
+    background-image: url(8040b5ff91ce8c3f153beebab39d584f.gif);
     
     overflow: hidden;
 }
@@ -43,8 +45,10 @@ h3{
     color: rgb(245, 240, 240);
 }
 .aaa a:hover{
+
     background-color: rgb(168, 166, 167);
     color: rgb(10, 10, 10);
+    
 }
 .b{
     
